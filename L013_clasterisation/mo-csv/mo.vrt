@@ -1,0 +1,8 @@
+<OGRVRTDataSource>
+    <OGRVRTLayer name="mo">
+        <SrcDataSource relativeToVRT="1">mo.csv</SrcDataSource>
+        <LayerSRS>EPSG:4326</LayerSRS>
+        <GeometryType>wkbUnknown</GeometryType>
+        <GeometryField encoding="WKT" field="WKT"/>
+    </OGRVRTLayer>
+</OGRVRTDataSource>
